@@ -25,9 +25,10 @@
 
 | Projet | Description | Liens |
 |--------|-------------|-------|
+| **Application de Recrutement (MERN)** | Application web de recrutement complète (MongoDB, Express.js, React, Node.js) développée en stage | [Repo](https://github.com/azizlejmi12) |
 | **Pipeline DevOps CI/CD** | Industrialisation d’une app MERN avec Docker, GitHub Actions, Kubernetes, Argo CD, Prometheus & Grafana | [Repo](https://github.com/azizlejmi12) |
 | **Monitoring & Analyse de Logs** | Plateforme ELK (Elasticsearch, Logstash, Kibana) + Flask, MongoDB, Redis, Docker Compose | [Repo](https://github.com/azizlejmi12) |
-| **Gestion de Commandes Full-Stack** | Backend Spring Boot + Frontend Angular, conteneurisé et déployé sur GCP | [Repo](https://github.com/azizlejmi12) |
+| **Prédiction du Prix de Voitures** | Projet Machine Learning : analyse de données automobiles et entraînement d’algorithmes de prédiction | [Repo](https://github.com/azizlejmi12) |
 
 ---
 
